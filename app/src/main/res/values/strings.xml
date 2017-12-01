@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Info Jawa Barat</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="informasi_data">Informasi Data</string>
+    <string name="sosial_dan_kependudukan">Sosial dan Kependudukan</string>
+    <string name="ekonomi_dan_perdagangan">Ekonomi dan Perdagangan</string>
+    <string name="pertanian_dan_pertambangan">Pertanian dan Pertambangan</string>
+    <string name="halaman_utama">Halaman Utama</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lainnya">Lainnya . . .</string>
+    <string name="tentang_aplikasi">Tentang BPS</string>
+    <string name="tentang_pengembang">Tentang Pengembang</string>
+    <string name="keluar">Keluar</string>
+
+    <string name="home_fragment_title">Halaman Utama</string>
+    <string name="home_fragment_subtitle">BPS Jawa Barat</string>
+    <string name="informasi_fragment_subtitle">Lihat informasi terbaru BPS</string>
+    <string name="publikasi_fragment_subtitle">Kumpulan data publikasi BPS</string>
+    <string name="tentang_fragment_title">Tentang Developer</string>
+    <string name="informasi_terbaru">Informasi Terbaru</string>
+    <string name="data_publikasi">Data Publikasi</string>
+    <string name="nextimg">nextImg</string>
+    <string name="header">header</string>
+    <string name="pilih_tahun">Pilih Tahun:</string>
+</resources>

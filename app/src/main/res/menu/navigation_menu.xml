@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/navigation_menu">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_halaman_utama"
+            android:title="@string/halaman_utama"
+            android:checked="true"
+            android:icon="@drawable/ic_home"/>
+        <item
+            android:id="@+id/nav_informasi_terbaru"
+            android:title="@string/informasi_terbaru"
+            android:checkable="true"
+            android:icon="@drawable/ic_new"/>
+        <item
+            android:id="@+id/nav_publikasi"
+            android:title="@string/data_publikasi"
+            android:checkable="true"
+            android:icon="@drawable/ic_pdf"/>
+    </group>
+    <item android:title="@string/informasi_data">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_sosial_kependudukan"
+                    android:icon="@drawable/ic_data"
+                    android:checkable="true"
+                    android:title="@string/sosial_dan_kependudukan"/>
+                <item
+                    android:id="@+id/nav_ekonomi_perdagangan"
+                    android:title="@string/ekonomi_dan_perdagangan"
+                    android:checkable="true"
+                    android:icon="@drawable/ic_data"/>
+                <item
+                    android:id="@+id/nav_pertanian_pertambangan"
+                    android:title="@string/pertanian_dan_pertambangan"
+                    android:checkable="true"
+                    android:icon="@drawable/ic_data"/>
+            </group>
+        </menu>
+    </item>
+    <item android:title="@string/lainnya">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_about"
+                    android:title="@string/tentang_aplikasi"
+                    android:checkable="true"
+                    android:icon="@drawable/ic_infoapp"/>
+                <item
+                    android:id="@+id/nav_kontak"
+                    android:title="@string/tentang_pengembang"
+                    android:checkable="true"
+                    android:icon="@drawable/ic_infodev"/>
+                <item
+                    android:id="@+id/nav_keluar"
+                    android:title="@string/keluar"
+                    android:checkable="false"
+                    android:icon="@drawable/ic_exit"/>
+            </group>
+        </menu>
+    </item>
+</menu>
