@@ -9,6 +9,8 @@ Fitur Aplikasi :
 4. Berita Resmi Statistik
 5. Informasi Resmi"
 
-Demo Aplikasi : https://goo.gl/tCJCtd Link Aplikasi : https://goo.gl/akQhS4
+Demo Aplikasi : https://goo.gl/tCJCtd
+
+Link Aplikasi : https://goo.gl/akQhS4
 
 Api web: https://goo.gl/JNJjNV
